@@ -1,0 +1,1 @@
+import{_ as t,M as o,p as n,q as a,Q as s,N as c,V as r,t as _}from"./framework-c63c58dd.js";const l={};function i(d,p){const e=o("RouterLink");return n(),a("div",null,[s("p",null,[c(e,{to:"/tips/aetip/"},{default:r(()=>[_("Ae技巧")]),_:1})])])}const f=t(l,[["render",i],["__file","index.html.vue"]]);export{f as default};

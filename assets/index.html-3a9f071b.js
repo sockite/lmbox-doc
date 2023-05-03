@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,Q as _}from"./framework-c63c58dd.js";const c={},o=_("p",null,"这是一个测试的视频",-1),s=[o];function r(a,l){return t(),n("div",null,s)}const i=e(c,[["render",r],["__file","index.html.vue"]]);export{i as default};

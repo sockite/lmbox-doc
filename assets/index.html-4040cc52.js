@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as n,Q as e,t as o}from"./framework-c63c58dd.js";const a={},c=e("h1",{id:"ps技巧",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ps技巧","aria-hidden":"true"},"#"),o(" ps技巧")],-1),r=e("blockquote",null,[e("p",null,"正在更新**")],-1),_=[c,r];function d(l,i){return s(),n("div",null,_)}const p=t(a,[["render",d],["__file","index.html.vue"]]);export{p as default};
